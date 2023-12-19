@@ -1,0 +1,7 @@
+
+Código simples em JavaScript.
+
+- O código de conversor de moedas foi o meu primeiro projeto!
+- Desenvolvido junto com o time da Alura na imersão dev 2023.
+
+Obs.: Importante salientar que durante as aulas fomos orientados, e todo o código foi desenvolvido juntamente com os professores.
